@@ -1,4 +1,4 @@
-Feature: The Internet Guinea Pig Website
+Feature: Modifying Text Widgets on the Lesson page
 
   Scenario: Add Text widget and modify it in Lesson
 
